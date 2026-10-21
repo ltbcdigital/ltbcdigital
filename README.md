@@ -47,9 +47,3 @@
 <p align="center" style="color:#1E90FF; font-family:JetBrains Mono; font-size:18px;">
   ───────────── ⚡ ─────────────
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itbcdigital&color=blue&style=flat-square" alt="profile views" width="240" />
-</p>
