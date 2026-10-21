@@ -40,7 +40,7 @@
 <h3 align="center">📈 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://gumroad.com">🌐 <b>Portfolio/Store:</b> LTBC Digital on Gumroad</a><br>
+  <a href="https://ltbcdigital.gumroad.com/">🌐 <b>Portfolio/Store:</b> LTBC Digital on Gumroad</a><br>
   <a href="https://github.com/itbcdigital">💼 <b>GitHub:</b> @itbcdigital</a>
 </p>
 
