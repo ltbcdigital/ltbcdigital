@@ -25,10 +25,3 @@
 <br>
 
 <p align="center"><em>Always shipping lightweight, fast, and zero-bloat web tools.</em></p>
-
-<br>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ltbcdigital&color=blue&style=flat-square" alt="profile views" width="240" />
-</p>
