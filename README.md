@@ -16,7 +16,7 @@
   <li><b>Design & Distribution:</b> Gumroad, Product Hunt</li>
 </ul>
 
-<h2>📈 Connect With Me</h2>
+<h2>📈 Connect With Me</h2>LTBC Digital (ltbcdigital)
 <ul>
   <li>🌐 <b>Portfolio/Store:</b> LTBC Digital on Gumroad</li>
   <li>💼 <b>GitHub:</b> @ltbcdigital</li>
@@ -27,6 +27,7 @@
 <p align="center"><em>Always shipping lightweight, fast, and zero-bloat web tools.</em></p>
 
 <br>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ltbcdigital&color=blue&style=flat-square" alt="profile views" width="240" />
