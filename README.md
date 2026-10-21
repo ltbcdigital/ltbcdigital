@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://ltbcdigital.gumroad.com/">🌐 <b>Portfolio/Store:</b> LTBC Digital on Gumroad</a><br>
-  <a href="https://github.com/itbcdigital">💼 <b>GitHub:</b> @itbcdigital</a>
+  <a href="https://github.com/ltbcdigital">💼 <b>GitHub:</b> @itbcdigital</a>
 </p>
 
 <p align="center" style="color:#1E90FF; font-family:JetBrains Mono; font-size:18px;">
